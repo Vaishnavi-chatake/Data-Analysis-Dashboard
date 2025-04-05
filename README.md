@@ -33,3 +33,6 @@ Indicates that most accidents occur in daylight conditions.
 #Outcome & Insights:
 This dashboard provides data-driven insights into accident trends, helping authorities identify high-risk areas, reduce casualties, and implement road safety measures effectively.
 
+#Dashboard:
+![Dashboard image](https://github.com/user-attachments/assets/08dd9fd1-4c44-4fe0-b87c-2a489c843332)
+
